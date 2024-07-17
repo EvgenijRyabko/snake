@@ -7,3 +7,12 @@
 .head {
   background-color: black;
 }
+
+.body {
+  background-color: gray;
+}
+
+.fruit {
+  background: url("../../assets/apple.svg");
+  background-size: contain;
+}
